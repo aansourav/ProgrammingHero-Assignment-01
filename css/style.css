@@ -29,15 +29,16 @@ h1 {
   padding: 10px 40px;
   color: white;
   font-weight: bold;
-  border-radius: 10%;
+  border-radius: 5px;
+  margin-top: 10px;
 }
 
 .year2022 {
   color: orange;
 }
 
-.center-text {
-  margin: 0 auto;
+.center-text h1{
+text-align: center;
 }
 
 .flex-class {
@@ -53,10 +54,28 @@ h1 {
   width: 40%;
 }
 
+.flexitem-1 {
+  background-color: #edf5f6;
+  border-radius: 15px;
+}
+
+.flexitem-2 {
+  background-color: #ffeeee;
+  border-radius: 15px;
+}
+.flexitem-3 {
+  background-color: #fff4d6;
+  border-radius: 15px;
+}
+
 .section3-flex {
   display: flex;
 }
 
-.section3-flex img{
-  width: 40%;
+.section3-flex img {
+  width: 30%;
+}
+
+.app-image {
+  width: 50%;
 }
