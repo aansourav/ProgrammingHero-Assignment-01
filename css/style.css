@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  font-size: 50px;
+}
+
+.mission-text {
+  color: orange;
+}
+
+.section1-flex {
+  display: flex;
+}
+
+.half-width {
+  width: 50%;
+  padding-left: 7%;
+}
+
+.half-width img {
+  width: 50%;
+}
+
+.explore-now {
+  text-decoration: none;
+  background-image: linear-gradient(purple, blue);
+  padding: 10px 40px;
+  color: white;
+  font-weight: bold;
+  border-radius: 10%;
+}
+
+.year2022 {
+  color: orange;
+}
+
+.center-text {
+  margin: 0 auto;
+}
+
+.flex-class {
+  display: flex;
+}
+
+.flex-lass-items {
+  padding-left: 5%;
+  padding-right: 3%;
+}
+
+.flex-lass-items img {
+  width: 40%;
+}
+
+.section3-flex {
+  display: flex;
+}
+
+.section3-flex img{
+  width: 40%;
+}
